@@ -1,0 +1,25 @@
+body{
+    background-color: #EAF6F6;
+    font-family: arial, serif;
+    color: rgb(47, 47, 47);
+    font-size: 1em;
+}
+h1,h3{
+    color: #66BFBF;
+}
+img{
+    width: 10em;
+    height: 10em;
+    border-radius: 50%;
+}
+table{
+    border-spacing: 0.3em;
+    text-align: center;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5%;
+    width: 5%;
+}
